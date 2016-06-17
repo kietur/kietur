@@ -1,5 +1,6 @@
 ---
-  name: oh god how did this get here
+  title: oh god how did this get here
+  layout: default
 ---
 
 # EVERYTHING HAPPENS SO MUCH
